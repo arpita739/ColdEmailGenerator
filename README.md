@@ -70,7 +70,7 @@ Dear Hiring Manager,
 
 I came across the Senior Product Developer RNWY Energy Footwear role at Nike and was impressed by the company's commitment to innovation and excellence. As a Business Development Executive at ABC, I believe our team can help elevate your product development process with our expertise in automation and software solutions.
 
-At AtliQ, we have a proven track record of empowering enterprises with tailored solutions that foster scalability, process optimization, cost reduction, and heightened overall efficiency. Our team can help you streamline your product development process, from planning and forecasting to material component specification and construction.
+At ABC, we have a proven track record of empowering enterprises with tailored solutions that foster scalability, process optimization, cost reduction, and heightened overall efficiency. Our team can help you streamline your product development process, from planning and forecasting to material component specification and construction.
 
 Our expertise in machine learning and Python can be particularly beneficial in optimizing your product development workflow. We can help you develop predictive models for demand forecasting, automate material selection and procurement, and create data-driven insights for informed decision-making.
 
