@@ -58,7 +58,7 @@ By leveraging open-source **Llama 3.1** (via **GroqCloud**) and a **ChromaDB**-b
    - A call to action for further communication or collaboration
 
 ## Example Workflow
-1. The user scrapes a job listing from a major client company's portal that requires skills in **Data Science and Cloud Engineering**.
+1. The user scrapes a job listing from a major client company's portal that requires skills in listed in CS.
 2. The system matches the requirements to a small enterprise that specializes in these fields.
 3. A custom cold email is generated, highlighting the company's expertise in the exact areas needed by the client.
    
