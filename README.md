@@ -89,7 +89,7 @@ Business Development Executive
 ABC
 
 ```
-
+![Alt Text](app/streamlitapp.png)
 ## Future Enhancements
 - **Multilingual Support**: Plan to implement email generation in multiple languages to target global clients.
 - **Advanced Portfolio Matching**: Incorporating more sophisticated AI-based portfolio matching to better align offerings with complex job requirements.
