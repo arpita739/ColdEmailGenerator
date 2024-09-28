@@ -1,0 +1,6 @@
+langchain-community
+langchain
+bs4
+chromadb
+groq
+langchain-groq
