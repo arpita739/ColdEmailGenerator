@@ -99,7 +99,7 @@ ABC
 We welcome contributions! Please open an issue or submit a pull request if you have any suggestions or improvements.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0.
 
 ---
 
